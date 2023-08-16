@@ -1,4 +1,4 @@
-/* Google Fonts - Poppins */
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
 * {
@@ -11,22 +11,20 @@ body {
   background-color: #e3f2fd;
 }
 
-/* For Scrollbar */
 
-/* width */
 ::-webkit-scrollbar {
   width: 6px;
 }
-/* Track */
+
 ::-webkit-scrollbar-track {
   background: #f2f2f2;
 }
-/* Handle */
+
 ::-webkit-scrollbar-thumb {
   border-radius: 8px;
   background: #ccc;
 }
-/* Handle on hover */
+
 ::-webkit-scrollbar-thumb:hover {
   background: #aaa;
 }
